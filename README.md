@@ -4,9 +4,9 @@
 
 ```bash
 sudo apt install jekyll ruby-jekyll-sitemap
-make
+make # this will serve on http://localhost:4000
 ```
 
 ## Deploying
 
-Commit and push
+Commit, push and wait for Github actions.
