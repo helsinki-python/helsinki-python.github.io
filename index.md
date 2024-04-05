@@ -3,12 +3,12 @@ layout: index
 title: Helsinki Python
 ---
 
-<img
+<div align="center"><img
 src="https://raw.githubusercontent.com/helsinki-python/logo/main/HelPy.svg"
 alt="Helsinki Python logo"
-style="width: 10em">
+style="height: 5em"></div>
 
-# Helsinki Python
+<h1>Helsinki Python</h1>
 
 ## About
 
