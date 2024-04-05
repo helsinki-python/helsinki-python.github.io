@@ -19,6 +19,12 @@ region meeting up roughly every month.
 - [Propose a talk](https://forms.gle/KjZVgeMGHRd5ECCJ9)
 - Follow [on Mastodon](https://fosstodon.org/@HelPy)
 
+### Organisers
+
+- [Hugo von Kemenade](https://github.com/hugovk)
+- [Jerry Pussinen](https://github.com/jerry-git)
+- [Cal Paterson](https://github.com/calpaterson)
+
 ## Next event
 
 - May 2024 - to be announced
