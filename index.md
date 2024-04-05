@@ -21,7 +21,7 @@ region meeting up roughly every month.
 
 ### Organisers
 
-- [Hugo von Kemenade](https://github.com/hugovk)
+- [Hugo van Kemenade](https://github.com/hugovk)
 - [Jerry Pussinen](https://github.com/jerry-git)
 - [Cal Paterson](https://github.com/calpaterson)
 
