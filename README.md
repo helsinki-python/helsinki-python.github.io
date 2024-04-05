@@ -1,4 +1,12 @@
+<p align="center">
+  <img width="250" height="250" 
+       src="https://raw.githubusercontent.com/helsinki-python/logo/main/HelPy.svg" 
+       alt="Helsinki Python logo">
+</p>
+
 # helsinki-python.github.io
+
+https://helsinki-python.github.io
 
 ## Building
 
@@ -9,4 +17,4 @@ make # this will serve on http://localhost:4000
 
 ## Deploying
 
-Commit, push and wait for Github actions.
+Commit, push and wait for GitHub Actions.
