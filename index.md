@@ -16,9 +16,10 @@ region meeting up roughly every month.
 
 ### Organisers
 
+- [Cal Paterson](https://github.com/calpaterson)
 - [Hugo van Kemenade](https://github.com/hugovk)
 - [Jerry Pussinen](https://github.com/jerry-git)
-- [Cal Paterson](https://github.com/calpaterson)
+- [Sami Lehtinen](https://github.com/sjlehtin)
 
 ## Next event
 
