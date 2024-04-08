@@ -27,9 +27,9 @@ region meeting up roughly every month.
 
 ## Next event
 
-- May 2024 - to be announced
+- 7th May 2024 - to be announced
 
 ## Past events
 
-- April 2024 - [April Helsinki Python meetup - Wolt x
+- 3rd April 2024 - [April Helsinki Python meetup - Wolt x
   Aiven](https://www.meetup.com/helpy-meetups/events/299649951/)
