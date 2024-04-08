@@ -9,7 +9,7 @@ Helsinki Python events are intended for networking and collaboration in the deve
 
 We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Helsinki Python events.
 
-To make clear what is expected, all staff, attendees, speakers, exhibitors, organisers, and volunteers at any Helsinki Python event are required to conform to the following Code of Conduct, as set forth by the Python Software Foundation. Organisers will enforce this code throughout the event.
+To make clear what is expected, all staff, attendees, speakers, exhibitors, organisers, and volunteers at any Helsinki Python event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event.
 
 ### Our community
 
