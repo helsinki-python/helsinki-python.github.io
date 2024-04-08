@@ -32,4 +32,4 @@ region meeting up roughly every month.
 
 ## See also
 
-- [Code of Conduct](/code-of-conduct)
+- [Code of conduct](/code-of-conduct)

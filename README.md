@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="250" height="250" 
-       src="https://raw.githubusercontent.com/helsinki-python/logo/main/HelPy.svg" 
+  <img width="250" height="250"
+       src="https://raw.githubusercontent.com/helsinki-python/logo/main/HelPy.svg"
        alt="Helsinki Python logo">
 </p>
 
