@@ -58,7 +58,7 @@ No weapons are allowed at Helsinki Python events. Weapons include but are not li
 
 #### Consequences
 
-If a participant engages in behaviour that violates this code of conduct, the Helsinki Python team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets. The full list of consequences for inappropriate behaviour is listed in the [Enforcement Procedures](enforcement-procedures).
+If a participant engages in behaviour that violates this code of conduct, the Helsinki Python team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets. The full list of consequences for inappropriate behaviour is listed in the [enforcement procedures](enforcement-procedures).
 
 Thank you for helping make this a welcoming, friendly community for everyone.
 

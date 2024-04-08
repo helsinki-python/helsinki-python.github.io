@@ -115,4 +115,4 @@ The follow-up email should be sent no later than one week after the receipt of t
 
 ### Attribution
 
-Forked from the [PyCon US Code of Conduct](https://policies.python.org/python.org/code-of-conduct/) and licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+Forked from the [PyCon US Code of Conduct](https://policies.python.org/python.org/code-of-conduct/) and licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
