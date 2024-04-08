@@ -1,18 +1,13 @@
 ---
-layout: index
+layout: default
 title: Helsinki Python
 ---
 
-<div align="center"><img
-src="https://raw.githubusercontent.com/helsinki-python/logo/main/HelPy.svg"
-alt="Helsinki Python logo"
-style="height: 5em"></div>
-
-<h1>Helsinki Python</h1>
+# Helsinki Python
 
 ## About
 
-A local usergroup for the [Uusimaa](https://en.wikipedia.org/wiki/Uusimaa)
+A local usergroup for the [Greater Helsinki](https://en.wikipedia.org/wiki/Greater_Helsinki)
 region meeting up roughly every month.
 
 - [Join on meetup.com](https://www.meetup.com/helpy-meetups/)
@@ -33,3 +28,7 @@ region meeting up roughly every month.
 
 - 3rd April 2024 - [April Helsinki Python meetup - Wolt x
   Aiven](https://www.meetup.com/helpy-meetups/events/299649951/)
+
+## See also
+
+- [Code of Conduct](/code-of-conduct)

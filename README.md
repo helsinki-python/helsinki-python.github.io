@@ -4,7 +4,7 @@
        alt="Helsinki Python logo">
 </p>
 
-# helsinki-python.github.io
+# Helsinki Python
 
 https://helsinki-python.github.io
 
