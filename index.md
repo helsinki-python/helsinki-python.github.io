@@ -13,6 +13,7 @@ region meeting up roughly every month.
 - [Join on meetup.com](https://www.meetup.com/helpy-meetups/)
 - [Propose a talk](https://forms.gle/KjZVgeMGHRd5ECCJ9)
 - Follow <a rel="me" href="https://fosstodon.org/@HelPy">on Mastodon</a>
+- Follow the [code of conduct](/code-of-conduct)
 
 ### Organisers
 
@@ -23,13 +24,9 @@ region meeting up roughly every month.
 
 ## Next event
 
-- 7th May 2024 - to be announced
+- Tuesday, 7th May 2024 - to be announced
 
 ## Past events
 
-- 3rd April 2024 - [April Helsinki Python meetup - Wolt x
+- Wednesday, 3rd April 2024 - [April Helsinki Python meetup - Wolt x
   Aiven](https://www.meetup.com/helpy-meetups/events/299649951/)
-
-## See also
-
-- [Code of conduct](/code-of-conduct)
