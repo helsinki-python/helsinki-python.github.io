@@ -21,7 +21,7 @@ In case of a conflict of interest, you can individually contact:
 
 - Cal Paterson
   - <cal@calpaterson.com>
-- TODO
-  - <TODO@example.com>
+- Jerry Pussinen
+  - <jerry.pussinen@gmail.com>
 
 Event organisers and staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the event. We value your attendance.
