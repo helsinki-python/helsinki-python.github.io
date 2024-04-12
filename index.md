@@ -30,5 +30,7 @@ region meeting up roughly every month.
 
 ## Past events
 
-- Wednesday, 3rd April 2024 - [April Helsinki Python meetup - Wolt x
-  Aiven](https://www.meetup.com/helpy-meetups/events/299649951/)
+- Wednesday, 3rd April 2024 -
+  [April Helsinki Python meetup - Wolt x Aiven](https://www.meetup.com/helpy-meetups/events/299649951/) -
+  [videos](https://www.youtube.com/playlist?list=PLguFXrFRjbcPPzVaQ7Wy0kj10B_269y2P) -
+  [photos](https://www.meetup.com/helpy-meetups/photos/34496924/)
