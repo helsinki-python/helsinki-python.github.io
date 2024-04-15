@@ -24,11 +24,11 @@ region meeting up roughly every month.
 
 ## Next event
 
-- Tuesday, 7th May 2024 - to be announced
+- Tuesday, 7th May 2024 - [Zalando](https://www.meetup.com/helpy-meetups/events/300305921/)
 
 ## Past events
 
 - Wednesday, 3rd April 2024 -
-  [April Helsinki Python meetup - Wolt x Aiven](https://www.meetup.com/helpy-meetups/events/299649951/) -
+  [Wolt x Aiven](https://www.meetup.com/helpy-meetups/events/299649951/) -
   [videos](https://www.youtube.com/playlist?list=PLguFXrFRjbcPPzVaQ7Wy0kj10B_269y2P) -
   [photos](https://www.meetup.com/helpy-meetups/photos/34496924/)
