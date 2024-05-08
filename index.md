@@ -24,7 +24,7 @@ region meeting up roughly every month.
 
 ## Next event
 
-- TBA
+- TBA, June 2024
 
 ## Past events
 
