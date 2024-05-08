@@ -24,9 +24,11 @@ region meeting up roughly every month.
 
 ## Next event
 
-- Tuesday, 7th May 2024 - [Zalando](https://www.meetup.com/helpy-meetups/events/300305921/)
+- TBA
 
 ## Past events
+
+- Tuesday, 7th May 2024 - [Zalando](https://www.meetup.com/helpy-meetups/events/300305921/)
 
 - Wednesday, 3rd April 2024 -
   [Wolt x Aiven](https://www.meetup.com/helpy-meetups/events/299649951/) -
