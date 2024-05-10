@@ -13,6 +13,7 @@ region meeting up roughly every month.
 - [Join on meetup.com](https://www.meetup.com/helpy-meetups/)
 - [Propose a talk](https://forms.gle/KjZVgeMGHRd5ECCJ9)
 - Follow <a rel="me" href="https://fosstodon.org/@HelPy">on Mastodon</a>
+- Join us [on Discord](https://discord.gg/yAy6VdVaFv)
 - Follow the [code of conduct](/code-of-conduct)
 
 ### Organisers
