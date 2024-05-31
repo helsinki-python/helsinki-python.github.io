@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Helsinki Python - Code of conduct
+description: We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Helsinki Python events
 ---
 
 # Code of conduct
