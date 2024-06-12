@@ -26,7 +26,6 @@ region meeting up roughly every month.
 
 - Wednesday, 12th June 2024 -
   [Hive Helsinki & Dead Set Bit](https://www.meetup.com/helpy-meetups/events/301336578/)
-  (log in if 404)
 
 ## Past events
 
