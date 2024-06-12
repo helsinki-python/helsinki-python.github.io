@@ -24,11 +24,12 @@ region meeting up roughly every month.
 
 ## Next event
 
-- Wednesday, 12th June 2024 -
-  [Hive Helsinki & Dead Set Bit](https://www.meetup.com/helpy-meetups/events/301336578/)
 - TBA, July 2024 - a pub meet in Helsinki
 
 ## Past events
+
+- Wednesday, 12th June 2024 -
+  [Hive Helsinki & Dead Set Bit](https://www.meetup.com/helpy-meetups/events/301336578/)
 
 - Tuesday, 7th May 2024 -
   [Zalando](https://www.meetup.com/helpy-meetups/events/300305921/) -
