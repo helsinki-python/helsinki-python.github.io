@@ -15,6 +15,29 @@ region meeting up roughly every month.
 - Follow <a rel="me" href="https://fosstodon.org/@HelPy">on Mastodon</a>
 - Follow the [code of conduct](/code-of-conduct)
 
+## Collaboration
+
+We are constantly looking for companies to collaborate with.
+Please get in touch if you could host us and/or sponsor food and drinks for a meetup.
+You can approach one of the organisers directly or email to helsinki-python@googlegroups.com.
+
+
+### What you get
+
+- 5-10 minutes for a company presentation at the beginning of the meetup (for each company sponsoring the event)
+- One speaker slot (for each company sponsoring the event)
+- Pretty much guaranteed full house of local Python talent
+- Speaker(s) from our meetup community
+
+### What we expect from you
+
+- A space for the meetup which:
+  - is located in the Uusimaa region,
+  - is easily reachable by public transportation,
+  - and can fit at least 40 meetup participants
+- IT setup (screen, microphones, and the like)
+- Ideally, food and drinks for the participants
+
 ### Organisers
 
 - [Cal Paterson](https://github.com/calpaterson)
