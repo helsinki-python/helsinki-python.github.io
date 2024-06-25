@@ -52,7 +52,8 @@ You can approach one of the organisers directly or email to helsinki-python@goog
 ## Past events
 
 - Wednesday, 12th June 2024 -
-  [Hive Helsinki & Dead Set Bit](https://www.meetup.com/helpy-meetups/events/301336578/)
+  [Hive Helsinki & Dead Set Bit](https://www.meetup.com/helpy-meetups/events/301336578/) -
+  [photos](https://www.meetup.com/helpy-meetups/photos/34627982/)
 
 - Tuesday, 7th May 2024 -
   [Zalando](https://www.meetup.com/helpy-meetups/events/300305921/) -
