@@ -12,14 +12,16 @@ region meeting up roughly every month.
 
 - [Join on meetup.com](https://www.meetup.com/helpy-meetups/)
 - [Propose a talk](https://forms.gle/KjZVgeMGHRd5ECCJ9)
+- [Write to us](mailto:helsinki-python@googlegroups.com)
 - Follow <a rel="me" href="https://fosstodon.org/@HelPy">on Mastodon</a>
 - Follow the [code of conduct](/code-of-conduct)
 
 ## Collaboration
 
-We are constantly looking for companies to collaborate with.
-Please get in touch if you could host us and/or sponsor food and drinks for a meetup.
-You can approach one of the organisers directly or email to helsinki-python@googlegroups.com.
+We are constantly looking for companies to collaborate with.  Please get in
+touch if you could host us and/or sponsor food and drinks for a meetup.  You
+can approach one of the organisers directly or email
+[helsinki-python@googlegroups.com](mailto:helsinki-python@googlegroups.com)
 
 
 ### What you get
