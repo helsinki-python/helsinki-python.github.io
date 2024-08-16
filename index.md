@@ -49,9 +49,13 @@ can approach one of the organisers directly or email
 
 ## Next event
 
-- TBA, July 2024 - a pub meet in Helsinki
+- Wednesday, 28th August 2024 -
+  [Vincit](https://www.meetup.com/helpy-meetups/events/302863785/)
 
 ## Past events
+
+- Monday, 22nd July 2024 -
+  [Summer picnic, Koff Park](https://www.meetup.com/helpy-meetups/events/302268980/)
 
 - Wednesday, 12th June 2024 -
   [Hive Helsinki & Dead Set Bit](https://www.meetup.com/helpy-meetups/events/301336578/) -
