@@ -47,12 +47,22 @@ can approach one of the organisers directly or email
 - [Jerry Pussinen](https://github.com/jerry-git)
 - [Sami Lehtinen](https://github.com/sjlehtin)
 
-## Next event
+## Next events
 
-- Wednesday, 28th August 2024 -
-  [Vincit](https://www.meetup.com/helpy-meetups/events/302863785/)
+- September 2024 -
+  Swappie
+
+- October 2024 -
+  Elisa
+
+- November 2024 -
+  Mavericks
 
 ## Past events
+
+- Wednesday, 28th August 2024 -
+  [Vincit](https://www.meetup.com/helpy-meetups/events/302863785/) -
+  [photos](https://www.meetup.com/helpy-meetups/photos/34804496/)
 
 - Monday, 22nd July 2024 -
   [Summer picnic, Koff Park](https://www.meetup.com/helpy-meetups/events/302268980/)
