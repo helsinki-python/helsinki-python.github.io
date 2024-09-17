@@ -50,7 +50,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - September 2024 -
-  Swappie
+  [Swappie](https://www.meetup.com/helpy-meetups/events/303480797/)
 
 - October 2024 -
   Elisa
