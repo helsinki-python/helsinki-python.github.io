@@ -49,9 +49,6 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Thursday, 26th September 2024 -
-  [Swappie](https://www.meetup.com/helpy-meetups/events/303480797/)
-
 - October 2024 -
   Elisa
 
@@ -59,6 +56,9 @@ can approach one of the organisers directly or email
   Mavericks
 
 ## Past events
+
+- Thursday, 26th September 2024 -
+  [Swappie](https://www.meetup.com/helpy-meetups/events/303480797/)
 
 - Wednesday, 28th August 2024 -
   [Vincit](https://www.meetup.com/helpy-meetups/events/302863785/) -
