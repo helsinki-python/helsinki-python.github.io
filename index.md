@@ -49,8 +49,8 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- October 2024 -
-  Elisa
+- Tuesday, 22nd October 2024 -
+  [Elisa](https://www.meetup.com/helpy-meetups/events/303828168/?slug=helpy-meetups&eventId=303828168)
 
 - November 2024 -
   Mavericks
