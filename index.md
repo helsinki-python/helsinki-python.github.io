@@ -50,14 +50,14 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Thursday, 14th November 2024 -
-  Mavericks
+  [Mavericks](https://www.meetup.com/helpy-meetups/events/304284986/)
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
 
 - Tuesday, 22nd October 2024 -
-  [Elisa](https://www.meetup.com/helpy-meetups/events/303828168/?slug=helpy-meetups&eventId=303828168)
+  [Elisa](https://www.meetup.com/helpy-meetups/events/303828168/)
 
 - Thursday, 26th September 2024 -
   [Swappie](https://www.meetup.com/helpy-meetups/events/303480797/)
