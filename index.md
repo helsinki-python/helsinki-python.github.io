@@ -60,7 +60,8 @@ can approach one of the organisers directly or email
   [Elisa](https://www.meetup.com/helpy-meetups/events/303828168/)
 
 - Thursday, 26th September 2024 -
-  [Swappie](https://www.meetup.com/helpy-meetups/events/303480797/)
+  [Swappie](https://www.meetup.com/helpy-meetups/events/303480797/) -
+  [videos](https://www.youtube.com/playlist?list=PLGD5YuihoRnt7k0rndYCInA02gZA9mXSU)
 
 - Wednesday, 28th August 2024 -
   [Vincit](https://www.meetup.com/helpy-meetups/events/302863785/) -
