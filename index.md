@@ -49,12 +49,15 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Thursday, 14th November 2024 -
-  [Mavericks](https://www.meetup.com/helpy-meetups/events/304284986/)
+- Tuesday, 10th December 2024 -
+  Nitor
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Thursday, 14th November 2024 -
+  [Mavericks](https://www.meetup.com/helpy-meetups/events/304284986/)
 
 - Tuesday, 22nd October 2024 -
   [Elisa](https://www.meetup.com/helpy-meetups/events/303828168/)
