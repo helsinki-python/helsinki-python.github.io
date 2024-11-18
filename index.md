@@ -52,6 +52,9 @@ can approach one of the organisers directly or email
 - Tuesday, 10th December 2024 -
   Nitor
 
+- January 2025 -
+  Wolt
+
 - Would you like to host us?  Please get in touch!
 
 ## Past events
