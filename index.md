@@ -50,7 +50,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Tuesday, 10th December 2024 -
-  Nitor
+  [Nitor](https://www.meetup.com/helpy-meetups/events/304793959/)
 
 - January 2025 -
   Wolt
