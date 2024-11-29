@@ -14,6 +14,7 @@ region meeting up roughly every month.
 - [Propose a talk](https://forms.gle/KjZVgeMGHRd5ECCJ9)
 - [Write to us](mailto:helsinki-python@googlegroups.com)
 - Follow <a rel="me" href="https://fosstodon.org/@HelPy">on Mastodon</a>
+- Link on <a href="https://www.linkedin.com/company/helsinki-python/">LinkedIn</a>
 - Follow the [code of conduct](/code-of-conduct)
 
 ## Collaboration
