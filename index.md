@@ -52,15 +52,16 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Tuesday, 10th December 2024 -
-  [Nitor](https://www.meetup.com/helpy-meetups/events/304793959/)
-
 - January 2025 -
   Wolt
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Tuesday, 10th December 2024 -
+  [Nitor](https://www.meetup.com/helpy-meetups/events/304793959/) -
+  [photos](https://www.linkedin.com/feed/update/urn:li:activity:7273345348541050880)
 
 - Thursday, 14th November 2024 -
   [Mavericks](https://www.meetup.com/helpy-meetups/events/304284986/)
