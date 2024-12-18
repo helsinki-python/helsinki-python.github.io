@@ -52,7 +52,7 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- January 2025 -
+- Wednesday, 15th January 2025 -
   Wolt
 
 - Would you like to host us?  Please get in touch!
