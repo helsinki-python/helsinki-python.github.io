@@ -53,7 +53,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Wednesday, 15th January 2025 -
-  Wolt
+  [Wolt](https://www.meetup.com/helpy-meetups/events/305285187/)
 
 - Would you like to host us?  Please get in touch!
 
