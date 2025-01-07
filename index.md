@@ -92,3 +92,10 @@ can approach one of the organisers directly or email
   [Wolt x Aiven](https://www.meetup.com/helpy-meetups/events/299649951/) -
   [videos](https://www.youtube.com/playlist?list=PLguFXrFRjbcPPzVaQ7Wy0kj10B_269y2P) -
   [photos](https://www.meetup.com/helpy-meetups/photos/34496924/)
+
+## Community
+
+- Our friends at [Archipylago](https://archipylago.dev/) down the road in Turku host
+  monthly meetups and sprints for Python people.
+
+- Visit [Techtribes](https://www.techtrib.es/) to find more tech meetups in Finland.
