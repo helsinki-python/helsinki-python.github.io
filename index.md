@@ -52,12 +52,15 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Wednesday, 15th January 2025 -
-  [Wolt](https://www.meetup.com/helpy-meetups/events/305285187/)
+- We're looking for a venue for February 2025, please get in touch
+  if you'd like to host dozens of local Python experts!
 
-- Would you like to host us?  Please get in touch!
+[//]: # (- Would you like to host us?  Please get in touch!)
 
 ## Past events
+
+- Wednesday, 15th January 2025 -
+  [Wolt](https://www.meetup.com/helpy-meetups/events/305285187/)
 
 - Tuesday, 10th December 2024 -
   [Nitor](https://www.meetup.com/helpy-meetups/events/304793959/) -
