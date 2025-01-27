@@ -52,10 +52,10 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- We're looking for a venue for February 2025, please get in touch
-  if you'd like to host dozens of local Python experts!
+- Wednesday, 26th February 2025 -
+  Hive Helsinki
 
-[//]: # (- Would you like to host us?  Please get in touch!)
+- Would you like to host us?  Please get in touch!
 
 ## Past events
 
