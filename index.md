@@ -55,6 +55,9 @@ can approach one of the organisers directly or email
 - Wednesday, 26th February 2025 -
   Hive Helsinki
 
+- Wednesday, 19th March 2025 -
+  Taiste
+
 - Would you like to host us?  Please get in touch!
 
 ## Past events
