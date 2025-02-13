@@ -53,7 +53,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Wednesday, 26th February 2025 -
-  Hive Helsinki
+  [Hive Helsinki](https://www.meetup.com/helpy-meetups/events/306131829/)
 
 - Wednesday, 19th March 2025 -
   Taiste
