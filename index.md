@@ -52,15 +52,21 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Wednesday, 26th February 2025 -
-  [Hive Helsinki](https://www.meetup.com/helpy-meetups/events/306131829/)
-
 - Wednesday, 19th March 2025 -
   Taiste
+
+- Tuesday, 15th April 2025 -
+  Reaktor
+
+- TBC, April 2025 -
+  MariaDB
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Wednesday, 26th February 2025 -
+  [Hive Helsinki](https://www.meetup.com/helpy-meetups/events/306131829/)
 
 - Wednesday, 15th January 2025 -
   [Wolt](https://www.meetup.com/helpy-meetups/events/305285187/)
