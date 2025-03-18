@@ -58,8 +58,8 @@ can approach one of the organisers directly or email
 - Tuesday, 15th April 2025 -
   Reaktor
 
-- TBC, April 2025 -
-  MariaDB
+- Tuesday, 27th May 2025 -
+  [MariaDB](https://www.meetup.com/helpy-meetups/events/306744088/)
 
 - Would you like to host us?  Please get in touch!
 
@@ -67,9 +67,11 @@ can approach one of the organisers directly or email
 
 - Wednesday, 26th February 2025 -
   [Hive Helsinki](https://www.meetup.com/helpy-meetups/events/306131829/)
+  [photos](https://www.linkedin.com/feed/update/urn:li:activity:7300982999150419969)
 
 - Wednesday, 15th January 2025 -
   [Wolt](https://www.meetup.com/helpy-meetups/events/305285187/)
+  [photos](https://www.linkedin.com/feed/update/urn:li:activity:7285589305958289408)
 
 - Tuesday, 10th December 2024 -
   [Nitor](https://www.meetup.com/helpy-meetups/events/304793959/) -
@@ -77,9 +79,11 @@ can approach one of the organisers directly or email
 
 - Thursday, 14th November 2024 -
   [Mavericks](https://www.meetup.com/helpy-meetups/events/304284986/)
+  [photos](https://www.meetup.com/helpy-meetups/photos/34989760/)
 
 - Tuesday, 22nd October 2024 -
   [Elisa](https://www.meetup.com/helpy-meetups/events/303828168/)
+  [photos](https://www.meetup.com/helpy-meetups/photos/34941701/)
 
 - Thursday, 26th September 2024 -
   [Swappie](https://www.meetup.com/helpy-meetups/events/303480797/) -
