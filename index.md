@@ -52,9 +52,6 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Wednesday, 19th March 2025 -
-  [Taiste](https://www.meetup.com/helpy-meetups/events/306522919/)
-
 - Tuesday, 15th April 2025 -
   Reaktor
 
@@ -64,6 +61,9 @@ can approach one of the organisers directly or email
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Wednesday, 19th March 2025 -
+  [Taiste](https://www.meetup.com/helpy-meetups/events/306522919/)
 
 - Wednesday, 26th February 2025 -
   [Hive Helsinki](https://www.meetup.com/helpy-meetups/events/306131829/)
