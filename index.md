@@ -53,10 +53,13 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Tuesday, 15th April 2025 -
-  Reaktor
+  [Reaktor](https://discord.com/channels/1225353042040459324/1238407238649909259/1356650573944066230)
 
 - Tuesday, 27th May 2025 -
   [MariaDB](https://www.meetup.com/helpy-meetups/events/306744088/)
+
+- Wednesday, 11th June 2025 -
+  Helen
 
 - Would you like to host us?  Please get in touch!
 
