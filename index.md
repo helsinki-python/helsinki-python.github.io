@@ -11,6 +11,7 @@ A local usergroup for the [Greater Helsinki](https://en.wikipedia.org/wiki/Great
 region meeting up roughly every month.
 
 - [Join on meetup.com](https://www.meetup.com/helpy-meetups/)
+- [Join our discord](/discord)
 - [Propose a talk](https://forms.gle/KjZVgeMGHRd5ECCJ9)
 - [Write to us](mailto:helsinki-python@googlegroups.com)
 - Follow <a rel="me" href="https://fosstodon.org/@HelPy">on Mastodon</a> and
