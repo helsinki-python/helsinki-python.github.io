@@ -11,7 +11,7 @@ A local usergroup for the [Greater Helsinki](https://en.wikipedia.org/wiki/Great
 region meeting up roughly every month.
 
 - Join [our group on meetup.com](https://www.meetup.com/helpy-meetups/)
-- Get into [our discord](/discord)
+- Get into [our Discord](/discord)
 - Propose [a talk](https://forms.gle/KjZVgeMGHRd5ECCJ9)
 - Send us [an email](mailto:helsinki-python@googlegroups.com)
 - Follow <a rel="me" href="https://fosstodon.org/@HelPy">on Mastodon</a> or <a href="https://bsky.app/profile/HelPy.fosstodon.org.ap.brid.gy">Bluesky</a>
@@ -53,7 +53,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Tuesday, 15th April 2025 -
-  [Reaktor](https://discord.com/channels/1225353042040459324/1238407238649909259/1356650573944066230)
+  [Reaktor](https://www.meetup.com/helpy-meetups/events/307043355/)
 
 - Tuesday, 27th May 2025 -
   [MariaDB](https://www.meetup.com/helpy-meetups/events/306744088/)
