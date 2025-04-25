@@ -52,9 +52,6 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Tuesday, 15th April 2025 -
-  [Reaktor](https://www.meetup.com/helpy-meetups/events/307043355/)
-
 - Tuesday, 27th May 2025 -
   [MariaDB](https://www.meetup.com/helpy-meetups/events/306744088/)
 
@@ -64,6 +61,9 @@ can approach one of the organisers directly or email
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Tuesday, 15th April 2025 -
+  [Reaktor](https://www.meetup.com/helpy-meetups/events/307043355/)
 
 - Wednesday, 19th March 2025 -
   [Taiste](https://www.meetup.com/helpy-meetups/events/306522919/)
