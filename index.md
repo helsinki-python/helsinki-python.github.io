@@ -58,6 +58,9 @@ can approach one of the organisers directly or email
 - Wednesday, 11th June 2025 -
   Helen
 
+- TBC, July 2025 -
+  A park in Helsinki
+
 - Would you like to host us?  Please get in touch!
 
 ## Past events
