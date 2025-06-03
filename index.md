@@ -36,8 +36,8 @@ can approach one of the organisers directly or email
 ### What we expect from you
 
 - A space for the meetup which:
-  - is located within Greater Helsinki, ideally closish to the centre of Helsinki
-  - is easily reachable by public transportation,
+  - is within the city (Helsinki, Espoo, Vantaa - all ok)
+  - reachable by public transportation
   - and can fit at least 40 meetup participants
 - IT setup (screen, microphones, and the like)
 - Ideally, food and drinks for the participants
