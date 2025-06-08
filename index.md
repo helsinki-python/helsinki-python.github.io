@@ -52,11 +52,8 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Tuesday, 27th May 2025 -
-  [MariaDB](https://www.meetup.com/helpy-meetups/events/306744088/)
-
 - Wednesday, 11th June 2025 -
-  Helen
+  [Helen](https://www.meetup.com/helpy-meetups/events/308064249/)
 
 - TBC, July 2025 -
   A park in Helsinki
@@ -64,6 +61,9 @@ can approach one of the organisers directly or email
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Tuesday, 27th May 2025 -
+  [MariaDB](https://www.meetup.com/helpy-meetups/events/306744088/)
 
 - Tuesday, 15th April 2025 -
   [Reaktor](https://www.meetup.com/helpy-meetups/events/307043355/)
