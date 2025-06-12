@@ -117,9 +117,9 @@ can approach one of the organisers directly or email
 
 ## Community
 
-- The [PyData Helsinki](https://pydata-helsinki.github.io/) arranges data and ML focused Python meetups in Helsinki.
-
 - Our friends at [Archipylago](https://archipylago.dev/) down the road in Turku host
   monthly meetups and sprints for Python people.
+
+- The [PyData Helsinki](https://pydata-helsinki.github.io/) arranges data and machine-learning focused Python meetups in Helsinki.
 
 - Visit [Techtribes](https://www.techtrib.es/) to find more tech meetups in Finland.
