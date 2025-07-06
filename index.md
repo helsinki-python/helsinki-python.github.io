@@ -52,15 +52,15 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Wednesday, 11th June 2025 -
-  [Helen](https://www.meetup.com/helpy-meetups/events/308064249/)
-
 - TBC, July 2025 -
   A park in Helsinki
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Wednesday, 11th June 2025 -
+  [Helen](https://www.meetup.com/helpy-meetups/events/308064249/)
 
 - Tuesday, 27th May 2025 -
   [MariaDB](https://www.meetup.com/helpy-meetups/events/306744088/)
