@@ -16,7 +16,7 @@ To make clear what is expected, all staff, attendees, speakers, exhibitors, orga
 ## Contact information
 
 If you believe that someone is violating the code of conduct, or have any other concerns, please contact an organiser immediately. They can be reached by emailing <helsinki-python@googlegroups.com> which is monitored by
-Cal Paterson, Hugo van Kemenade, Jerry Pussinen and Sami Lehtinen.
+Cal Paterson, Daniel Vahla, Hugo van Kemenade, Jerry Pussinen and Sami Lehtinen.
 
 In case of a conflict of interest, you can individually contact:
 
