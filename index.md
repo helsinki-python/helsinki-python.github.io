@@ -52,12 +52,21 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- TBC, July 2025 -
-  A park in Helsinki
+- Monday, 18th August 2025 -
+  [Witted AIcorp](https://www.meetup.com/helpy-meetups/events/310439608/)
+
+- Tuesday, 9th September 2025 -
+  Wärtsilä
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Wednesday, 30th July 2025 -
+  [Group trip to the Museum of Malware Art](https://www.meetup.com/helpy-meetups/events/308831271/)
+
+- Sunday, 27th July 2025 -
+  [Summer picnic, Meripuisto](https://www.meetup.com/helpy-meetups/events/310089840/)
 
 - Wednesday, 11th June 2025 -
   [Helen](https://www.meetup.com/helpy-meetups/events/308064249/)
