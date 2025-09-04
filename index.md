@@ -53,7 +53,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Tuesday, 9th September 2025 -
-  [Wärtsilä](https://www.meetup.com/helpy-meetups/events/310646251/)
+  [Wärtsilä](https://www.meetup.com/datatribe-meetup-group/events/310578890/)
 
 - Wednesday, 22nd October 2025 -
   Zalando
