@@ -52,15 +52,18 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Monday, 18th August 2025 -
-  [Witted AIcorp](https://www.meetup.com/helpy-meetups/events/310439608/)
-
 - Tuesday, 9th September 2025 -
-  Wärtsilä
+  [Wärtsilä](https://www.meetup.com/helpy-meetups/events/310646251/)
+
+- Wednesday, 22nd October 2025 -
+  Zalando
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Monday, 18th August 2025 -
+  [Witted AIcorp](https://www.meetup.com/helpy-meetups/events/310439608/)
 
 - Wednesday, 30th July 2025 -
   [Group trip to the Museum of Malware Art](https://www.meetup.com/helpy-meetups/events/308831271/)
