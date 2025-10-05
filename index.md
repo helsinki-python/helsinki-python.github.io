@@ -52,15 +52,15 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Tuesday, 9th September 2025 -
-  [Wärtsilä](https://www.meetup.com/datatribe-meetup-group/events/310578890/)
-
 - Wednesday, 22nd October 2025 -
   Zalando
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Tuesday, 9th September 2025 -
+  [Wärtsilä](https://www.meetup.com/datatribe-meetup-group/events/310578890/)
 
 - Monday, 18th August 2025 -
   [Witted AIcorp](https://www.meetup.com/helpy-meetups/events/310439608/)
