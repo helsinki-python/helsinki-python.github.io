@@ -53,7 +53,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Wednesday, 22nd October 2025 -
-  Zalando
+  [Zalando](https://www.meetup.com/helpy-meetups/events/311453925/)
 
 - Would you like to host us?  Please get in touch!
 
