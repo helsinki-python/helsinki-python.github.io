@@ -135,4 +135,8 @@ can approach one of the organisers directly or email
 
 - The [PyData Helsinki](https://pydata-helsinki.github.io/) arranges data and machine-learning focused Python meetups in Helsinki.
 
+- [PyLadies Tampere](https://www.linkedin.com/company/pyladies-tampere/) is a
+- mentorship group focused on helping more women become active participants and
+  leaders in the Python open-source community.
+
 - Visit [Techtribes](https://www.techtrib.es/) to find more tech meetups in Finland.
