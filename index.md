@@ -52,12 +52,12 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Wednesday, 22nd October 2025 -
-  [Zalando](https://www.meetup.com/helpy-meetups/events/311453925/)
-
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Wednesday, 22nd October 2025 -
+  [Zalando](https://www.meetup.com/helpy-meetups/events/311453925/)
 
 - Tuesday, 9th September 2025 -
   [Wärtsilä](https://www.meetup.com/datatribe-meetup-group/events/310578890/)
