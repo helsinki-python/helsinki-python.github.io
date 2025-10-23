@@ -58,6 +58,7 @@ can approach one of the organisers directly or email
 
 - Wednesday, 22nd October 2025 -
   [Zalando](https://www.meetup.com/helpy-meetups/events/311453925/)
+  [photos](https://www.meetup.com/helpy-meetups/photos/35632713/)
 
 - Tuesday, 9th September 2025 -
   [Wärtsilä](https://www.meetup.com/datatribe-meetup-group/events/310578890/)
