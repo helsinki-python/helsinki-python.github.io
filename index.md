@@ -54,6 +54,9 @@ can approach one of the organisers directly or email
 
 - Would you like to host us?  Please get in touch!
 
+- Tuesday, 9th December 2025 -
+  [pikkujoulut at Kaisla](https://www.meetup.com/helpy-meetups/events/312213388/)
+
 ## Past events
 
 - Wednesday, 22nd October 2025 -
