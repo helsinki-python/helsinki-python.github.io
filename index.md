@@ -54,10 +54,13 @@ can approach one of the organisers directly or email
 
 - Would you like to host us?  Please get in touch!
 
-- Tuesday, 9th December 2025 -
-  [pikkujoulut at Kaisla](https://www.meetup.com/helpy-meetups/events/312213388/)
+- Tuesday, 27th January 2026 -
+  [Hive](https://www.meetup.com/helpy-meetups/events/312829000/)
 
 ## Past events
+
+- Tuesday, 9th December 2025 -
+  [pikkujoulut at Kaisla](https://www.meetup.com/helpy-meetups/events/312213388/)
 
 - Wednesday, 22nd October 2025 -
   [Zalando](https://www.meetup.com/helpy-meetups/events/311453925/)
