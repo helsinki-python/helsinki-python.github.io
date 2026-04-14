@@ -53,7 +53,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Tuesday, 21st April 2026 -
-  TEK & ILRY
+  [TEK & ILRY](https://www.meetup.com/helpy-meetups/events/314258115/)
 
 - Wednesday, 10th June 2026 -
   IQM Quantum Computers
