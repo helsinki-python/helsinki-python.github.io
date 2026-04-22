@@ -52,8 +52,8 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Tuesday, 21st April 2026 -
-  [TEK & ILRY](https://www.meetup.com/helpy-meetups/events/314258115/)
+- Wednesday, 20th May 2026 -
+  ICEYE
 
 - Wednesday, 10th June 2026 -
   IQM Quantum Computers
@@ -61,6 +61,9 @@ can approach one of the organisers directly or email
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Tuesday, 21st April 2026 -
+  [TEK & ILRY](https://www.meetup.com/helpy-meetups/events/314258115/)
 
 - Wednesday, 11th March 2026 -
   [UpCloud](https://www.meetup.com/helpy-meetups/events/313503706/)
