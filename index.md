@@ -53,7 +53,7 @@ can approach one of the organisers directly or email
 ## Next events
 
 - Wednesday, 20th May 2026 -
-  ICEYE
+  [ICEYE](https://www.meetup.com/helpy-meetups/events/314758488/)
 
 - Wednesday, 10th June 2026 -
   IQM Quantum Computers
