@@ -52,15 +52,15 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Wednesday, 20th May 2026 -
-  [ICEYE](https://www.meetup.com/helpy-meetups/events/314758488/)
-
 - Wednesday, 10th June 2026 -
-  IQM Quantum Computers
+  [IQM Quantum Computers](https://www.meetup.com/helpy-meetups/events/315087342/)
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Wednesday, 20th May 2026 -
+  [ICEYE](https://www.meetup.com/helpy-meetups/events/314758488/)
 
 - Tuesday, 21st April 2026 -
   [TEK & ILRY](https://www.meetup.com/helpy-meetups/events/314258115/)
