@@ -52,12 +52,16 @@ can approach one of the organisers directly or email
 
 ## Next events
 
-- Wednesday, 10th June 2026 -
-  [IQM Quantum Computers](https://www.meetup.com/helpy-meetups/events/315087342/)
+- Tuesday, 4th August 2026 -
+  [Thirsty Scholar](https://www.meetup.com/pydatahelsinki/events/315760731/)
+
 
 - Would you like to host us?  Please get in touch!
 
 ## Past events
+
+- Wednesday, 10th June 2026 -
+  [IQM Quantum Computers](https://www.meetup.com/helpy-meetups/events/315087342/)
 
 - Wednesday, 20th May 2026 -
   [ICEYE](https://www.meetup.com/helpy-meetups/events/314758488/)
