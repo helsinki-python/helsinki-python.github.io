@@ -25,15 +25,14 @@ touch if you could host us and/or sponsor food and drinks for a meetup.  You
 can approach one of the organisers directly or email
 [helsinki-python@googlegroups.com](mailto:helsinki-python@googlegroups.com)
 
-
-### What you get
+### What hosts get
 
 - 5-10 minutes for a company presentation at the beginning of the meetup (for each company sponsoring the event)
 - One speaker slot (for each company sponsoring the event)
 - Pretty much guaranteed full house of local Python talent
 - Speaker(s) from our meetup community
 
-### What we expect from you
+### What we ask from hosts
 
 - A space for the meetup which:
   - is within the city (Helsinki, Espoo, Vantaa - all ok)
