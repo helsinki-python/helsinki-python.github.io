@@ -47,7 +47,6 @@ can approach one of the organisers directly or email
 - [Cal Paterson](https://github.com/calpaterson)
 - [Daniel Vahla](https://www.linkedin.com/in/daniel-vahla-8050a6177/)
 - [Hugo van Kemenade](https://github.com/hugovk)
-- [Jerry Pussinen](https://github.com/jerry-git)
 - [Sami Lehtinen](https://github.com/sjlehtin)
 
 ## Next events
