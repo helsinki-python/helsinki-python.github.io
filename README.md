@@ -17,4 +17,5 @@ make # this will serve on http://localhost:4000
 
 ## Deploying
 
-Commit, push and wait for GitHub Actions.
+Commit and push to `main`. GitHub Pages builds from the branch itself, so
+changes go live a minute or two after the push.
