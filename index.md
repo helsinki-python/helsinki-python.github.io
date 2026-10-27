@@ -27,10 +27,10 @@ can approach one of the organisers directly or email
 
 ### What hosts get
 
-- 5-10 minutes for a company presentation at the beginning of the meetup (for each company sponsoring the event)
-- One speaker slot (for each company sponsoring the event)
-- Pretty much guaranteed full house of local Python talent
-- Speaker(s) from our meetup community
+- 5-10 minutes to present your company at the start of the meetup
+- A full speaker slot for one of your people
+- A room full of local Python talent
+- Talks from our community's speakers
 
 ### What we ask from hosts
 
